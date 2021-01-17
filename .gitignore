@@ -1,0 +1,5 @@
+build/
+*.iml
+.idea
+.gradle
+src/main/java/dto/Note.txt
